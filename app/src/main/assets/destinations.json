@@ -1,0 +1,117 @@
+
+{
+  "region": "Drâa-Tafilalet, Morocco",
+  "catalogVersion": "2.0.0",
+  "destinations": [
+    {
+      "id": "ait_ben_haddou",
+      "name": "Aït Ben Haddou",
+      "province": "Ouarzazate Province",
+      "imagePath": "file:///android_asset/images/destinations/destination_ait_ben_haddou.webp",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ksar_ait_benhaddou.jpg",
+      "photographer": "Kassimi m'bark",
+      "license": "CC BY-SA 4.0",
+      "reviewStatus": "VERIFIED_AUTHENTIC_LOCAL",
+      "isVerifiedLocation": true
+    },
+    {
+      "id": "ouarzazate",
+      "name": "Ouarzazate",
+      "province": "Ouarzazate Province",
+      "imagePath": "file:///android_asset/images/destinations/destination_ait_ben_haddou.webp",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ksar_ait_benhaddou.jpg",
+      "photographer": "Kassimi m'bark",
+      "license": "CC BY-SA 4.0",
+      "reviewStatus": "VERIFIED_AUTHENTIC_LOCAL",
+      "isVerifiedLocation": true
+    },
+    {
+      "id": "tinghir",
+      "name": "Todra Gorge",
+      "province": "Tinghir Province",
+      "imagePath": "file:///android_asset/images/activities/activity_todra_canyon_hike.webp",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Todgha_Gorge.jpg",
+      "photographer": "Thomas Hartmann",
+      "license": "CC BY-SA 4.0",
+      "reviewStatus": "VERIFIED_AUTHENTIC_LOCAL",
+      "isVerifiedLocation": true
+    },
+    {
+      "id": "merzouga",
+      "name": "Merzouga Dunes",
+      "province": "Errachidia Province",
+      "imagePath": "file:///android_asset/images/destinations/destination_merzouga_dunes.webp",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dunes_de_Merzouga.jpg",
+      "photographer": "Bernard Gagnon",
+      "license": "CC BY-SA 3.0",
+      "reviewStatus": "VERIFIED_AUTHENTIC_LOCAL",
+      "isVerifiedLocation": true
+    },
+    {
+      "id": "zagora",
+      "name": "Zagora & Draa Valley",
+      "province": "Zagora Province",
+      "imagePath": "file:///android_asset/images/marketplace/dates_agdz_draa.webp",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agdz-geographyalltheway-02.jpg",
+      "photographer": "Geography All The Way",
+      "license": "CC BY 2.0",
+      "reviewStatus": "VERIFIED_AUTHENTIC_LOCAL",
+      "isVerifiedLocation": true
+    },
+    {
+      "id": "errachidia",
+      "name": "Ziz Valley & Erfoud",
+      "province": "Errachidia Province",
+      "imagePath": "file:///android_asset/images/marketplace/dates_tafilalet_harvest.webp",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alfeggous_Dates.jpg",
+      "photographer": "Moustapha Mellou",
+      "license": "CC BY-SA 4.0",
+      "reviewStatus": "VERIFIED_AUTHENTIC_LOCAL",
+      "isVerifiedLocation": true
+    },
+    {
+      "id": "skoura",
+      "name": "Kasbah Amridil - Skoura",
+      "province": "Ouarzazate Province",
+      "imagePath": "file:///android_asset/images/destinations/destination_skoura_amridil.webp",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kasbah_Amridil_(52122440715).jpg",
+      "photographer": "Jan Willem Doornenbal",
+      "license": "CC BY 2.0",
+      "reviewStatus": "VERIFIED_AUTHENTIC_LOCAL",
+      "isVerifiedLocation": true
+    },
+    {
+      "id": "dades_valley",
+      "name": "Dadès Valley",
+      "province": "Tinghir Province",
+      "imagePath": "file:///android_asset/images/activities/activity_dades_serpentine_road.webp",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Winding_road_leading_into_the_Dades_gorges_in_the_Anti-Atlas_mountain_range,_Morocco.jpg",
+      "photographer": "Anderson Sady",
+      "license": "CC BY-SA 3.0",
+      "reviewStatus": "VERIFIED_AUTHENTIC_LOCAL",
+      "isVerifiedLocation": true
+    },
+    {
+      "id": "tamegroute",
+      "name": "Tamegroute Pottery Workshop",
+      "province": "Zagora Province",
+      "imagePath": "file:///android_asset/images/marketplace/pottery_tamegroute_vase.webp",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pottery_Tamegroute_Morocco_2012a.jpg",
+      "photographer": "Bernhard Holub",
+      "license": "CC BY-SA 4.0",
+      "reviewStatus": "VERIFIED_AUTHENTIC_LOCAL",
+      "isVerifiedLocation": true
+    },
+    {
+      "id": "kelaat_mgouna",
+      "name": "Kelaat M’Gouna - Rose Valley",
+      "province": "Tinghir Province",
+      "imagePath": "file:///android_asset/images/workshops/workshop_rose_harvest.webp",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rose_fields_in_Kelaa_Mgouna.jpg",
+      "photographer": "Wikimedia Contributor",
+      "license": "CC BY-SA 4.0",
+      "reviewStatus": "VERIFIED_AUTHENTIC_LOCAL",
+      "isVerifiedLocation": true
+    }
+  ]
+}
